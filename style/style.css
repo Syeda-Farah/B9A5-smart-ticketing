@@ -1,0 +1,14 @@
+.main-section{
+    /* background-image: url(../images/banner.png); */
+   min-width: 100%;
+   min-height: 50rem;
+background:url(../images/banner.png) ;
+background-repeat: no-repeat;
+}
+.font-Raleway{
+    font-family: "Raleway";
+}
+.card{
+    width: 565px;
+    display: flex;
+}

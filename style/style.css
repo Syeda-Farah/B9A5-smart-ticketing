@@ -8,6 +8,9 @@ background-repeat: no-repeat;
 .font-Raleway{
     font-family: "Raleway";
 }
+.inter{
+    font-family: "Inter", sans-serif;
+}
 .card{
     width: 565px;
     display: flex;
